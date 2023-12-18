@@ -1,5 +1,2 @@
 ### Hello!
-My name is Carson, and I'm an electrical engineering student.
-I'm currently working on an active noise control solution to
-external noise in a classroom. I also plan on adding some random
-projects to my GitHub profile.
+My name is Carson, and I'm an electrical engineering master's student. I am currently working on research. Try visting my capstone project from undergrad while you are here.
